@@ -1,0 +1,118 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin:0;
+    border: solid 45px pink;
+    border-radius: 70px;
+}
+h1{
+    position: absolute;
+    font-size: 70px;
+    top: 600px;
+    border-bottom: 75px solid pink;
+    width: 900px;
+    
+}
+
+.cercle1{
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    border: 1px solid red;
+    border-radius: 30px;
+    background-color: pink;
+    bottom: 1030px;
+    left: 200px;
+}
+
+.liste1{
+    display: inline-block;
+    position: absolute;
+    width: 450px;
+    height: 180px;
+    bottom: 1000px;
+    left: 330px;
+}
+
+.liste1 li{
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    padding-left: 0px;
+}
+.ele1list1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.ele2list1{
+    font-size: 40px;
+}
+
+.cercle2{
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    border: 1px solid blueviolet;
+    border-radius: 30px;
+    background-color: blueviolet;
+    bottom: 620px;
+    left: 200px;
+}
+
+
+.liste2{
+    position: absolute;
+    width: 450px;
+    height: 180px;
+    font-size: 1.3em;
+    bottom: 600px;
+    left: 330px;
+}
+.ele1list2{
+    font-size: 55px;
+    font-weight: bold;
+}
+.ele2list2{
+    font-size: 40px;
+}
+
+.liste2 li{
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    padding-left: 0px;
+}
+
+.cercle3{
+    position: absolute;
+    width: 100px;
+    height: 90px;
+    border: 1px solid palevioletred;
+    border-radius: 30px;
+    background-color: rgb(107, 32, 103);
+    bottom: 220px;
+    left: 200px;
+}
+
+.liste3{
+    position: absolute;
+    width: 450px;
+    height: 180px;
+    font-size: 1.3em;
+    bottom: 200px;
+    left: 330px;
+}
+.ele1list3{
+    font-size: 55px;
+    font-weight: bold;
+}
+.ele2list3{
+    font-size: 40px;
+}
+
+.liste3 li{
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    padding-left: 0px;
+}
